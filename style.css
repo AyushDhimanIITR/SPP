@@ -118,12 +118,14 @@ ul{
 .register_main{
     padding: 10px 16px;
     background: #19D2A6;
-    color: #07070A;
     font-weight: bold;
     border: none;
     margin: 0 0 20px 50px;
     font: 'Merriweather Sans',sans-serif;
     cursor: pointer;
+}
+.register_main a{
+    color: #07070A;
 }
 .perks{
     display: block;
