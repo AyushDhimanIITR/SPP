@@ -55,13 +55,15 @@ ul{
     text-align: center;
 }
 
-.register{
+.register {
    padding: 10px 20px;
    color: #07070A;
-   background: #19D2A6 !important;
+   background: #19D2A6;
    border: none;
-   font-weight: bold;
-   
+   font-weight: bold;  
+}
+.register a{
+    color: #07070A;
 }
 
 .login{
